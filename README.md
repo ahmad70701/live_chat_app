@@ -1,0 +1,1 @@
+A PHP server for Real Time Text Communications
